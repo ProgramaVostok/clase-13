@@ -9,17 +9,17 @@ Borrador: Gráfico comparación órbitas completadas
 Cosmonautas:
 Hasta el momento en la URSS se usaba a perros como sujetos de prueba para desarrollar el programa, pero con el proyecto vostok por primera vez se comienza a llevar a seres humanos al espacio. Estas personas se hacían llamar cosmonautas y tal como la cantidad de misiones, fueron seis los cuales fueron puestos en orbita.
 
-Yuri A. Gagarin
+Yuri A. Gagarin: Primer ser humano en el espacio
 
-Guerman Titov
+Guerman Titov: Cosmonauta más joven de la historia.
 
-Andrián Nikoláyev
+Andrián Nikoláyev: Primera transmisión desde una cápsula espacial.
 
-Pável Popóvich
+Pável Popóvich: Primer ucraniano étnico en el espacio.
 
-Valeri Bykovski
+Valeri Bykovski: Récord de permanencia (5 días). 
 
-Valentina Tereshkova
+Valentina Tereshkova: Primera mujer en el espacio
 
 Misiones:
 
