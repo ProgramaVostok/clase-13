@@ -9,6 +9,18 @@ Borrador: Gráfico comparación órbitas completadas
 Cosmonautas:
 Hasta el momento en la URSS se usaba a perros como sujetos de prueba para desarrollar el programa, pero con el proyecto vostok por primera vez se comienza a llevar a seres humanos al espacio. Estas personas se hacían llamar cosmonautas y tal como la cantidad de misiones, fueron seis los cuales fueron puestos en orbita.
 
+Yuri A. Gagarin
+
+Guerman Titov
+
+Andrián Nikoláyev
+
+Pável Popóvich
+
+Valeri Bykovski
+
+Valentina Tereshkova
+
 Misiones:
 
 Vostok 1:
