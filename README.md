@@ -1,4 +1,4 @@
-# clase-14
+# Clase-14
 
 Introducción:
 El 12 de abril de 1961 a las 6:07 a.m. se lanzó la nave espacial que llevo al primer ser humano al espacio. Esta no era ni más ni menos que la primera de 6 misiones que el programa espacial soviético “vostok” . Este programa se llevo a cabo entre los años 1961 y 1963, logrando poner a seis personas en órbita alrededor de la tierra en ese período.
