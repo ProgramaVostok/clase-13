@@ -39,13 +39,11 @@ Por primera vez llegaron a la Tierra señales de televisión desde el espacio, e
 Vostok 5 y 6:
 El 14 de junio 1963 se realizó el lanzamiento de la Vostok-5 con el piloto Valeri Bykovski a bordo. Su vuelo, hasta hoy día, ostenta el récord de ser el vuelo en solitario más prolongado. Bykovski pasó solo en el espacio casi 5 días.
 El 16 de junio de 1963 para encontrarse con Bykovski, que llevaba ya tres días en la órbita, se lanzó la última nave espacial del programa Vostok, concretamente la sexta.
-
+[Ilustración_sin_título](https://user-images.githubusercontent.com/112445758/200453832-5d4815a4-d257-45e8-a00e-024a377dccb6.jpg)
 Cohete:
 La nave espacial Vostok estaba formada por una cabina esférica con un asiento para una persona, con una masa de 2,46 toneladas, diámetro de 2,3 metros y un módulo cónico para el equipamiento. La cabina estaba instalada sobre un módulo que contenía el sistema del motor. La nave fue puesta en órbita por el cohete SL-3, que permitía el desalojo del astronauta en caso de emergencia.
 
 Borrador:Vistas cohete 
-[Ilustración_sin_título](https://user-images.githubusercontent.com/112445758/200453832-5d4815a4-d257-45e8-a00e-024a377dccb6.jpg)
-
 
 
 Primera mujer:
