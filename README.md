@@ -4,7 +4,7 @@ Introducción:
 El 12 de abril de 1961 a las 6:07 a.m. se lanzó la nave espacial que llevo al primer ser humano al espacio. Esta no era ni más ni menos que la primera de 6 misiones que el programa espacial soviético “vostok” . Este programa se llevo a cabo entre los años 1961 y 1963, logrando poner a seis personas en órbita alrededor de la tierra en ese período.
 
 Borrador: Gráfico comparación órbitas completadas
-![Untitled_Artwork](https://user-images.githubusercontent.com/112445758/200347943-dc8db88e-cc79-4e8c-bb3a-07d7308fca07.png)
+[Untitled_Artwork](https://user-images.githubusercontent.com/112445758/200347943-dc8db88e-cc79-4e8c-bb3a-07d7308fca07.png)
 
 Cosmonautas:
 Hasta el momento en la URSS se usaba a perros como sujetos de prueba para desarrollar el programa, pero con el proyecto vostok por primera vez se comienza a llevar a seres humanos al espacio. Estas personas se hacían llamar cosmonautas y tal como la cantidad de misiones, fueron seis los cuales fueron puestos en orbita.
